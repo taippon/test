@@ -22,10 +22,14 @@
     <string name="student_medical_info">Medical Information</string>
     <string name="student_birth_date">Birth Date</string>
     <string name="student_class">Class</string>
+    <string name="search_students">Search students...</string>
+    <string name="no_students_found">No students found</string>
     
     <!-- Teachers -->
     <string name="teachers_title">Teachers</string>
     <string name="add_teacher">Add Teacher</string>
+    <string name="search_teachers">Search teachers...</string>
+    <string name="no_teachers_found">No teachers found</string>
     <string name="teacher_name">Teacher Name</string>
     <string name="teacher_email">Email</string>
     <string name="teacher_phone">Phone</string>
@@ -36,6 +40,7 @@
     <!-- Classes -->
     <string name="classes_title">Classes</string>
     <string name="add_class">Add Class</string>
+    <string name="no_classes_found">No classes found</string>
     <string name="class_name">Class Name</string>
     <string name="class_capacity">Capacity</string>
     <string name="class_teacher">Class Teacher</string>
