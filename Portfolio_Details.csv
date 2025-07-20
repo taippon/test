@@ -1,0 +1,51 @@
+Security Type,Symbol,Company Name,Sector,Market Cap (B),Current Price,Target Price,Allocation %,Investment Rationale,Key Metrics,Risk Factors,ESG Score
+
+EQUITY HOLDINGS
+
+Stock,MSFT,Microsoft Corporation,Technology,$3100,420,480,18%,"Leading cloud computing and AI infrastructure provider with strong competitive moats and recurring revenue model. Benefits from digital transformation trends and enterprise AI adoption.","P/E: 28.5, ROE: 42%, Revenue Growth: 12%, Dividend Yield: 0.7%, Beta: 0.9","Regulatory scrutiny, competition in cloud services, economic slowdown affecting enterprise spending",A+
+
+Stock,JNJ,Johnson & Johnson,Healthcare,$450,160,180,16%,"Diversified healthcare giant with pharmaceutical innovation pipeline and defensive consumer products. Provides stability during economic uncertainty while benefiting from aging demographics.","P/E: 15.2, ROE: 25%, Revenue Growth: 6%, Dividend Yield: 2.9%, Beta: 0.7","Litigation risks, patent cliff exposure, regulatory approval delays",A
+
+Stock,PG,Procter & Gamble,Consumer Staples,$360,152,170,15%,"Essential consumer goods company with pricing power and global brand portfolio. Defensive characteristics with consistent cash flow generation and dividend growth history.","P/E: 24.1, ROE: 32%, Revenue Growth: 5%, Dividend Yield: 2.4%, Beta: 0.5","Raw material cost inflation, currency headwinds, market share pressure",A+
+
+Stock,NEE,NextEra Energy,Utilities,$160,80,92,14%,"Leading renewable energy utility with largest wind and solar development pipeline. Benefits from energy transition trends and regulated utility cash flows.","P/E: 22.8, ROE: 11%, Revenue Growth: 8%, Dividend Yield: 2.8%, Beta: 0.3","Interest rate sensitivity, regulatory changes, weather-related risks",A+
+
+Stock,JPM,JPMorgan Chase,Financial Services,$480,165,185,12%,"Largest US bank with diversified revenue streams and strong capital position. Benefits from rising interest rates and economic growth while maintaining defensive loan loss reserves.","P/E: 12.4, ROE: 17%, Revenue Growth: 7%, Dividend Yield: 2.1%, Beta: 1.1","Credit cycle downturn, regulatory changes, economic recession risk",B+
+
+TOTAL EQUITY ALLOCATION,,,,,,,75%,,,,
+
+FIXED INCOME HOLDINGS
+
+Bond,US10Y,US Treasury 10-Year Note,Government,N/A,98.50,Par,15%,"Benchmark government security providing portfolio stability and inflation protection. Offers liquidity and safe haven characteristics during market volatility.","Yield: 4.2%, Duration: 8.1 years, Credit Rating: AAA","Interest rate risk, inflation erosion, opportunity cost in rising rate environment",N/A
+
+Bond,LQD,iShares Investment Grade Corporate Bond ETF,Corporate,N/A,115.20,120,7%,"Diversified exposure to high-quality corporate debt providing income generation and credit risk diversification. Offers professional management and liquidity.","Yield: 4.8%, Duration: 7.5 years, Credit Rating: A-, Expense Ratio: 0.14%","Credit spread risk, interest rate sensitivity, individual issuer defaults",N/A
+
+Bond,VTEB,Vanguard Tax-Exempt Bond ETF,Municipal,N/A,52.80,55,3%,"Tax-advantaged municipal bond exposure providing after-tax income benefits. Supports infrastructure investment while offering state and local diversification.","Yield: 3.5% (Tax-Equivalent: 5.4%), Duration: 6.2 years, Credit Rating: AA, Expense Ratio: 0.05%","Municipal credit risk, interest rate sensitivity, tax policy changes",N/A
+
+TOTAL BOND ALLOCATION,,,,,,,25%,,,,
+
+PORTFOLIO SUMMARY
+
+Total Portfolio Value,,,,,,,100%,,,,
+Expected Annual Return,,,,,,,8.5%,"Weighted average based on analyst price targets and dividend yields",Risk-adjusted return considering correlation benefits,
+Portfolio Beta,,,,,,,0.82,"Calculated weighted average of individual security betas",Lower volatility than broad market,
+Portfolio Yield,,,,,,,2.8%,"Current dividend and interest income",Provides steady income stream,
+Sharpe Ratio Estimate,,,,,,,1.15,"Risk-adjusted return metric assuming 4.5% risk-free rate",Attractive risk-adjusted returns,
+
+RISK METRICS
+
+Value at Risk (95%),,,,,,,"-12.5%","Maximum expected loss over 1-month period with 95% confidence",Based on historical volatility and correlations,
+Maximum Drawdown,,,,,,,"-18%","Estimated maximum peak-to-trough decline based on stress testing",Considers sector correlations and market conditions,
+Correlation to S&P 500,,,,,,,0.78,"Portfolio correlation to broad market index",Provides some diversification benefits,
+
+REBALANCING STRATEGY
+
+Rebalancing Frequency,,,,,,,Quarterly,"Systematic rebalancing to maintain target allocations",Maintains risk profile and captures rebalancing alpha,
+Threshold Deviation,,,,,,,±3%,"Rebalance when any holding deviates more than 3% from target",Balances transaction costs with risk management,
+
+PERFORMANCE ATTRIBUTION
+
+Growth Component,,,,,,,65%,"Allocation to growth-oriented securities (MSFT, NEE, JPM)",Captures secular growth trends,
+Defensive Component,,,,,,,35%,"Allocation to defensive securities (JNJ, PG, Bonds)",Provides downside protection,
+Domestic Exposure,,,,,,,85%,"US-domiciled securities and USD-denominated bonds",Reduces currency risk,
+International Exposure,,,,,,,15%,"International revenue exposure through multinational companies",Provides geographic diversification,
